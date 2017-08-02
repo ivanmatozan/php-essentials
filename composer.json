@@ -1,0 +1,7 @@
+{
+    "require": {
+        "phpmailer/phpmailer": "^5.2",
+        "mailgun/mailgun-php": "^2.3",
+        "php-http/guzzle6-adapter": "^1.1"
+    }
+}
